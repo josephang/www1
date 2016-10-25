@@ -1,0 +1,5 @@
+Options -Indexes
+RewriteEngine on
+RewriteRule "empressyelizaveta.com/index.php" "empressyelizaveta.com/index.html" [R]
+ErrorDocument 404 /resources/404.html
+ErrorDocument 403 /resources/404.html
