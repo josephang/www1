@@ -1,0 +1,3 @@
+Options -Indexes
+ErrorDocument 403 /.resources/handler/forbidden.html
+ErrorDocument 404 /.resources/handler/404.html
